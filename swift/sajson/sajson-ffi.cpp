@@ -1,4 +1,4 @@
-#include "../../include/sajson.h"
+#include "../../Ext/sajson/include/sajson.h"
 #include "sajson-ffi.h"
 
 // never instantiated, only inherits so static_cast is legal
