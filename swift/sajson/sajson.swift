@@ -1,4 +1,5 @@
 import Foundation
+import sajson_c
 
 // MARK: ValueReader
 
